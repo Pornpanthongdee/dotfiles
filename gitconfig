@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pornpanthongdee02@gmail.com
+	name = Pornpan Thongdee
